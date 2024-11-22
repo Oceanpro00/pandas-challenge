@@ -7,8 +7,8 @@ PyCity Schools
 
 
 Provided Dataset files -
-- Resources/ schools_complete.csv
-- Resources/ students_complete.csv
+- PyCitySchools/ Resources/ schools_complete.csv
+- PyCitySchools/ Resources/ students_complete.csv
 
 Working files -
 - PyCitySchools_starter.ipynb
